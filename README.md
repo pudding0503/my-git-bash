@@ -88,7 +88,7 @@ $ cp .gitconfig ~
 
 ```json
 {
-  "terminal.integrated.shell.windows": "D:\dev\git\bin\\bash.exe"
+  "terminal.integrated.shell.windows": "D:\\dev\git\\bin\\bash.exe"
 }
 ```
 
