@@ -82,6 +82,14 @@ $ cp .bash_profile ~
 $ cp .gitconfig ~
 ```
 
+注意，这里的 [user] 信息是与 Github Desktop 登陆的账户一致（多 Github 用户请注意）：
+
+```
+[user]
+	email = bitcookies@nousbuild.com
+	name = bitcookies
+```
+
 ### 6. 在 VSCode 中配置 Git Bash
 
 在 VSCode 中使用 `Git Bash` 只需要在 `Settings.json` 中添加 `bash.exe` 的文件路径。
