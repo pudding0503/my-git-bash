@@ -37,7 +37,9 @@ $ cd my-git-bash
 
 ### 2. 安装字体
 
-字体采用的是 [Oh My Posh](https://ohmyposh.dev/docs/installation/fonts) 推荐的 Nerd 字体。 Nerd 字体是流行的字体，经过修补以包含图标。 推荐 **Meslo LGM NF**，但任何 Nerd 字体都应该与标准主题兼容。
+本配置默认使用 DejaVu Sans Mono for Powerline 字体。
+
+你也可以使用 [Oh My Posh](https://ohmyposh.dev/docs/installation/fonts) 推荐的 Nerd 字体。 Nerd 字体是流行的字体，经过修补以包含图标。 推荐 **Meslo LGM NF**，但任何 Nerd 字体都应该与标准主题兼容。
 
 执行命令后，将全部字体文件拖放进去即可完成安装。
 
