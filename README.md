@@ -94,11 +94,11 @@ $ cp .gitconfig ~
 
 ### 6. 在 VSCode 中配置 Git Bash
 
-在 VSCode 中使用 `Git Bash` 只需要在 `Settings.json` 中添加 `bash.exe` 的文件路径。
+在 VSCode 中使用 `Git Bash` 只需要在 `Settings.json` 中添加 `bash.exe` 的文件路径。（注意，但是这样会默认取消使用 CMD or PowerShell）
 
 ```json
 {
-  "terminal.integrated.shell.windows": "D:\\dev\git\\bin\\bash.exe"
+  "terminal.integrated.shell.windows": "D:\\dev\\git\\bin\\bash.exe"
 }
 ```
 
